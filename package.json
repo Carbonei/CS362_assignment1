@@ -14,5 +14,8 @@
     "assignment1"
   ],
   "author": "Isabel Carbonell",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.11.0"
+  }
 }
